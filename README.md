@@ -31,4 +31,4 @@ light:
 https://github.com/Aircoookie/Espalexa
 
 
-4): Download project update ssid and flash it
+4): Download project update ssid and password and flash it to NodeMcu
