@@ -1,11 +1,11 @@
 # IOT-Light-Dimmer
 IOT-Light-Dimmer
 
-YouTube Part # 1
+YouTube Tutorial Part # 1
 
 https://www.youtube.com/watch?v=eFeOSiL-IBQ
 
-YouTube Part # 2
+YouTube Tutorial Part # 2
 
 https://www.youtube.com/watch?v=uC9vyMdiJKQ
 
