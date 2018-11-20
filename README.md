@@ -17,7 +17,7 @@ mqtt:
 
 light:
 
-  -- platform: mqtt
+  \- platform: mqtt
   
     name: "Office Lights"
     
