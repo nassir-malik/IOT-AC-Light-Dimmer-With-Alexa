@@ -1,6 +1,13 @@
 # IOT-Light-Dimmer
 IOT-Light-Dimmer
 
+YouTube Part # 1
+
+https://www.youtube.com/watch?v=eFeOSiL-IBQ
+
+YouTube Part # 2
+
+https://www.youtube.com/watch?v=uC9vyMdiJKQ
 
 1): Setup Hassio
 
