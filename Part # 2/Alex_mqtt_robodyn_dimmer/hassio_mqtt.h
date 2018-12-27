@@ -1,6 +1,7 @@
 #include <PubSubClient.h>
 #include "robodyn_dimmer.h"
 #define MQTT_VERSION MQTT_VERSION_3_1_1
+
 // MQTT: ID, server IP, port, username and password
 const PROGMEM char* MQTT_CLIENT_ID = "Office Lights";
 const PROGMEM char* MQTT_SERVER_IP = "192.168.0.22";

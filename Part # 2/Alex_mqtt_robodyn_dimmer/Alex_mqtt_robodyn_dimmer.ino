@@ -14,8 +14,8 @@ WiFiClient wifiClient;
 //##################################################
 //##################################################
 // Change this!!
-const char* ssid = "Entr your wifi router's name";
-const char* password = "Enter wifi password";
+const char* ssid = "";
+const char* password = "";
 //##################################################
 //##################################################
 boolean wifiConnected = false;
