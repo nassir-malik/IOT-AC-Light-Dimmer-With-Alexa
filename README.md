@@ -3,6 +3,28 @@ IOT-Light-Dimmer
 
 ![alt text](https://github.com/nassir-malik/IOT-Light-Dimmer/blob/master/drawing.jpg)
 
+Triac BTA16 600B
+
+Optocoupler 4n25
+
+Triac Output Optocoupler MOC3021 
+
+Bridge Rectifier diode d11510s
+
+120k Ohms 5%
+
+120k Ohms 5%
+
+1k Ohms 5%
+
+Resistor 331
+
+Resistor 471
+
+Resistor 103
+
+LED
+
 YouTube Tutorial Part # 1
 
 https://www.youtube.com/watch?v=eFeOSiL-IBQ
