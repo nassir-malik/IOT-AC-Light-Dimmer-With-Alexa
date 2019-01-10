@@ -1,6 +1,8 @@
 # IOT-Light-Dimmer
 IOT-Light-Dimmer
 
+![alt text](https://github.com/nassir-malik/IOT-Light-Dimmer/blob/master/drawing.jpg)
+
 YouTube Tutorial Part # 1
 
 https://www.youtube.com/watch?v=eFeOSiL-IBQ
