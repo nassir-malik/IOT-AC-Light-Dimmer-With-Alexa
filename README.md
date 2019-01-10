@@ -4,6 +4,7 @@ IOT-Light-Dimmer
 ![alt text](https://github.com/nassir-malik/IOT-Light-Dimmer/blob/master/drawing.jpg)
 
 ###Part List
+
 Triac BTA16 600B
 Optocoupler 4n25
 Triac Output Optocoupler MOC3021 
