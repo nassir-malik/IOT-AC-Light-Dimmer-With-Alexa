@@ -3,7 +3,7 @@ IOT-Light-Dimmer
 
 ![alt text](https://github.com/nassir-malik/IOT-Light-Dimmer/blob/master/drawing.jpg)
 
-##Part List
+#Part List
 
 Triac BTA16 600B
 
