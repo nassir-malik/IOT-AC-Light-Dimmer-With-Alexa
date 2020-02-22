@@ -1,3 +1,5 @@
+Use ESP8266 2.5.0 version for this project.
+
 # IOT-Light-Dimmer
 IOT-Light-Dimmer
 
